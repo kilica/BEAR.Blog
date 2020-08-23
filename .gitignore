@@ -5,6 +5,7 @@
 /.idea/
 /vendor/
 /build/
+/public/info.php
 /var/log/
 /var/tmp/
 phpunit.xml
