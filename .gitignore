@@ -6,6 +6,7 @@
 /vendor/
 /build/
 /public/info.php
+/public/adminer.php
 /var/log/
 /var/tmp/
 phpunit.xml
@@ -13,3 +14,4 @@ phpunit.xml
 !var/tmp/cache/.gitkeep
 !var/tmp/di/.gitkeep
 /docs/api/
+public/adminer.php
