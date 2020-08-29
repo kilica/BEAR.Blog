@@ -5,7 +5,7 @@ order deny,allow
     RewriteEngine On
 
     # for all files not found in the file system,
-    # reroute to "index.php" bootstrap script,
+    # reroute to "Index.php" bootstrap script,
     # keeping the query string intact.
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
