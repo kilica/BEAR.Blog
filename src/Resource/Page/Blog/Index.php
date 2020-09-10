@@ -10,7 +10,7 @@ class Index extends ResourceObject
 {
     public function onGet()
     {
-
+        $this['content'] = "HEllo !";
         return $this;
     }
 
